@@ -2,7 +2,7 @@
     "name": "mariuzzo/laravel-js-localization",
     "description": "Laravel Localization in JavaScript",
     "type": "library",
-    "keywords": ["laravel", "laravel 5", "localization", "i18n", "javascript", "js", "lang"],
+    "keywords": ["laravel", "localization", "i18n", "javascript", "js", "lang"],
     "homepage": "https://github.com/rmariuzzo/laravel-js-localization",
     "license": "MIT",
     "authors": [{
@@ -33,12 +33,12 @@
         "source": "https://github.com/rmariuzzo/laravel-js-localization"
     },
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/config": ">=4.2",
-        "illuminate/console": ">=4.2",
-        "illuminate/filesystem": ">=4.2",
-        "tedivm/jshrink": "~1.0",
-        "vlucas/phpdotenv": "^3.3"
+        "php": ">=7.3.0",
+        "illuminate/config": ">=8.0",
+        "illuminate/console": ">=8.0",
+        "illuminate/filesystem": ">=8.0",
+        "tedivm/jshrink": "^1.3",
+        "vlucas/phpdotenv": "^5.1"
     },
     "require-dev": {
         "phpunit/phpunit": "4.8.*"
